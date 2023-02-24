@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iogeot9xOdiefIYcPf9Ht7RbSDmFF+P4ncIEbnG1IUk=",
+  "Source": "ELK-Api-Sample",
+  "BasePath": "_content/ELK-Api-Sample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
